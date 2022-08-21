@@ -1,0 +1,14 @@
+{
+  "name": "manage-device-info",
+  "version": "1.0.0",
+  "description": "Lambda to received and store device information",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Manimekalai Devaraj",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.29.4"
+  }
+}
